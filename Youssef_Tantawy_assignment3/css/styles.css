@@ -1,0 +1,404 @@
+body {
+	margin:0px;
+	padding: 0px;
+	background-color: #FFF;
+}
+
+.container {
+	
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+header {
+	background-color: #435831;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	display: flex;
+}
+
+h1 {
+	font-size: 24px;
+	color: #f3f5f2;
+	margin-left: 17px;
+	margin-top: 35px;
+	margin-right: 500px;
+	margin-bottom: 39px;
+}
+
+header img {
+	margin-left: 12px;
+	margin-top: 12px;
+	margin-right: 15px;
+	margin-bottom: 12px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+header nav a:hover{
+	border-bottom: 2px solid #ffffff;
+}
+nav li {
+	font-size: 30px;
+	margin-right: 13px;
+	margin-top: 35px;
+	margin-bottom: 39px;
+}
+
+nav ul {
+	display: flex;
+}
+
+.info {
+	background-image: url(../img/Grapes_bg.jpg);
+	background-repeat: no-repeat;
+	height: 600px;
+	margin-bottom: 104px;
+}
+
+	.heading h2 {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 60px;
+	color: #ffffff;
+	margin-left: 50px;
+	padding-top: 100px;
+	margin-bottom: 42px;
+
+
+}
+
+	.style p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+	color: #ffffff;
+	margin-left: 49px;
+	margin-bottom: 43px;
+
+}
+
+.info a {
+	display: inline-block;
+	color: #ffffff;
+	background-color: #435831;
+	padding: 12px 24px;
+	border-radius: 10px; 
+	font-family: 'Source Sans Pro' , sans-serif;
+	font-weight: 300;
+	font-size: 36px;
+	margin-left: 54px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.info a:hover {
+	padding: 12px 19px 12px 29px;
+	border-bottom: 2px solid #ffffff;
+}
+
+
+.secondcontainer {
+	margin-left: 39px;
+
+}
+
+.secondcontainer h2 {
+	font-family: 'Playfair Display', serif;
+	font-size: 60px;
+	color: #0f1f1b; 
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap
+}
+
+.secondcontainer {
+	padding-left: 37px;
+	width: 461.5px;
+}
+
+.secondcontainer h2 {
+	padding-left: 111px;
+	margin-bottom: 25px;
+}
+
+.secondcontainer p {
+	margin-bottom: 25px;
+}
+
+.small {
+	font-size: 12px;
+}
+
+
+.Banner {
+	background-image: url(../img/Succulent.jpg);
+	background-repeat: no-repeat;
+	height: 200px;
+	margin-top: 96px;
+}
+
+.Banner h2 {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 48px;
+	color: #19211f;
+	margin-left: 218px;
+	margin-top: 73px;
+	margin-right: 200px;
+	margin-bottom: 73px;
+	display: inline-block;
+	background-color: #ffffff;
+}
+
+
+
+.article1image {
+	background-image: url(../img/blackandpurplesucculent.jpg);
+	background-repeat: no-repeat;
+	.background-size: cover;
+}
+
+.article1 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.Water {
+	background-color: #0e1c1c;
+}
+
+.Water {
+	width: 225px;
+}
+
+.Water {
+	padding-top: 32px;
+	padding-left: 5px;
+	padding-right: 225px;
+	padding-bottom: 45px;
+}
+
+.Water h2 {
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 36px;
+	color: #ffffff;
+	padding-bottom: 25px;
+	padding-left: 32px;
+}
+
+.Water p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	width: 476px;
+	padding: 28px;
+	color: #ffffff;
+
+
+}
+
+.Water a {
+	padding-left: 33px;
+	font-family: 'Source Sans Pro' , sans-serif;
+	font-size: 24px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.Water a:hover {
+	padding-left: 5px;
+	border-bottom: 2px solid #ffffff;
+}
+
+.article2image {
+	background-image: url(../img/graysucculentplant.jpg);
+	background-repeat: no-repeat;
+	height: 200px;
+	margin-top: 96px;
+}
+
+.article2 {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+.ContainerGarden {
+	background-color:#0e1c1c; 
+	width: 225px;
+
+}
+
+.article2image {
+	margin-top: -9px;
+}
+
+.ContainerGarden h2 {
+	font-family:'Playfair Display', serif;
+	font-size: 36px;
+	font-weight: 400;
+	padding-top: 28px;
+	padding-bottom: 25px;
+	padding-left: 32px;
+	color: #ffffff;
+}
+
+.ContainerGarden p{
+	width: 476px;
+	padding: 28px;
+}
+
+.ContainerGarden p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	width: 476px;
+	padding: 28px;
+	color: #ffffff;
+}
+
+.ContainerGarden {
+	padding-top: 32px;
+	padding-left: 5px;
+	padding-right: 225px;
+	padding-bottom: 30px;
+
+}
+
+.ContainerGarden a {
+	padding-left: 33px;
+	font-family: 'Source Sans Pro' , sans-serif;
+	font-size: 24px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.ContainerGarden a:hover {
+	padding-left: 5px;
+	border-bottom: 2px solid #ffffff;
+}
+
+footer img {
+	margin-top: 85px;
+	margin-left: 436px;
+	margin-right: 436px;
+
+}
+
+/*footer h1 {
+	font-family:'Source Sans Pro',sans-serif; 
+	font-size: 24px;
+	color: #19211f;
+	margin-left: 411px;
+	margin-right: 410px;
+	margin-top: 5px;*/
+
+}
+footer h1 {
+	margin-left: 411px;
+	color: #525856;
+}
+
+footer h1{
+	font-family: 'Sourse Sans Pro', sans-serif;
+	color: #19211f;
+}
+
+.footerbox {
+	margin-right: 22px;
+	width: 175.6666667px;
+}
+
+.footerflex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.footerbox h2 {
+	font-family:'Source Sans Pro',sans-serif; 
+	font-weight: 700
+	font-size:24px;
+
+}
+
+.footerbox {
+	background-color: #9cedde;
+	margin-right: 22px;
+	margin-bottom: 202px;
+}
+
+footer a {
+	text-decoration: none;
+
+}
+
+footer a:hover {
+	border-bottom: 2px solid #ffffff
+}
+
+.article2 a {
+	list-style-type: none;
+}
+
+
+.copyright {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	text-align:center;
+	padding-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
